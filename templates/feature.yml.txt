@@ -16,3 +16,4 @@ body:
       description: Перечислите наблюдаемые условия готовности.
     validations:
       required: true
+
